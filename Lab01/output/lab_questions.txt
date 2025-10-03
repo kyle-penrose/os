@@ -1,0 +1,8 @@
+What is the value of *p after *p = 20 in the code example?
+
+
+
+How does the pointer arithmetic work in the context of arrays? Provide an example from the code.
+
+
+What is the difference between a pointer and a regular variable in C?
